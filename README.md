@@ -19,4 +19,4 @@ Currently: Process Development Analyst @ Solid Biosciences | M.S. Data Analytics
 | [PDF AI Assistant](https://huggingface.co/spaces/username/pdf-ai-assistant) | LLM chatbot for document Q&A | LangChain, FAISS |
 
 ## 🌍 Connect With Me
-📫 [LinkedIn](https://linkedin.com/in/vamshi-korutla) | [Portfolio Website](https://vamshi-ai.me) | [GitHub](https://github.com/vamshikrishnakorutla)
+📫 [LinkedIn](https://linkedin.com/in/vamshi-korutla) | [Portfolio Website](https://vamshi-ai.me) | [GitHub](https://github.com/Vamshi782)
